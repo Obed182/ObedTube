@@ -1,0 +1,40 @@
+Instrucciones para usar el programa "ObedTube"
+¡Gracias por descargar ObedTube! Este programa te permite descargar videos de YouTube en la mejor calidad con una interfaz fácil de usar.
+
+Requisitos previos
+	1. Asegúrate de que tu sistema tenga instalado Python 3.10 o superior.
+	2. La carpeta del programa ya incluye el archivo necesario de FFmpeg.
+
+Pasos para usar el programa
+	1. Ejecuta el programa
+		- Haz doble clic en el archivo ObedTube.exe.
+		- Aparecerá una ventana con la interfaz del programa.
+	2. Pega el enlace del video de YouTube
+		- Copia la URL del video de YouTube.
+		- Haz clic derecho en el campo de texto y selecciona "Pegar", o utiliza Ctrl+V.
+	3. Selecciona una carpeta de destino
+		- Pulsa el botón "Descargar".
+		- Elige una carpeta donde deseas guardar el video descargado.
+	4. Descarga completada
+		- Una vez finalizada, aparecerá un mensaje indicando que el video ha sido descargado exitosamente.
+		- Encuentra tu video en la carpeta seleccionada con formato MP4.
+
+Configuración de FFmpeg
+Si encuentras problemas relacionados con FFmpeg (como mensajes de error), sigue estos pasos:
+
+	1. Ejecuta el instalador de FFmpeg incluido
+		- En la carpeta del programa, encontrarás un archivo llamado InstaladorFFmpeg.exe.
+		- Haz doble clic en él y sigue las instrucciones.
+	2. Confirma la instalación
+		- Este instalador añadirá automáticamente FFmpeg al sistema para que funcione sin problemas.
+
+Solución de problemas comunes
+	• El video no se descarga correctamente:
+		- Asegúrate de que el enlace del video sea válido y que tengas acceso a Internet.
+	• Error relacionado con FFmpeg:
+		- Asegúrate de haber ejecutado InstaladorFFmpeg.exe al menos una vez antes de usar el programa.
+
+Créditos
+Desarrollado por Obed.
+Instagram: obed_vl
+
